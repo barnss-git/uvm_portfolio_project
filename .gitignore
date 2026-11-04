@@ -1,0 +1,9 @@
+# Simulator Artifacts and Waveforms
+sim/*
+!sim/.gitkeep
+*.log
+*.vcd
+*.fsdb
+*.jou
+*.pb
+work/
